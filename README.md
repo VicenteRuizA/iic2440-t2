@@ -1,4 +1,4 @@
-# iic2440-t2
+# Tarea 2 Procesamiento de Datos Masivos
 
 El archivo de la tarea con todas las funciones se llama ```Tarea2.ipynb```, además, hay 3 archivos con datos de prueba, los cuales son: ```datos_p2.txt```: datos de prueba para la pregunta 2, es el mismo ejemplo dado en el repositorio de la tarea. ```datos_p3.txt``` y ```datos_p3_2.txt```: todos archivos con datos y consultas para la pregunta 3. 
 
@@ -7,3 +7,5 @@ Para cada una de las preguntas se creó un apartado al final del notebook para r
 data, b, A, L, M = readFile3('nombre_archivo.txt')
 print(inputArista(A, L, M))
 ```
+
+Link video: [Video](https://example.com/)
