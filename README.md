@@ -1,4 +1,6 @@
 # Tarea 2 Procesamiento de Datos Masivos
+Carlos Kuhn 20.807.794-5 \
+Vicente Ruiz 20.286.351-5 
 
 El archivo de la tarea con todas las funciones se llama ```Tarea2.ipynb```, además, hay 3 archivos con datos de prueba, los cuales son: ```datos_p2.txt```: datos de prueba para la pregunta 2, es el mismo ejemplo dado en el repositorio de la tarea. ```datos_p3.txt``` y ```datos_p3_2.txt```: todos archivos con datos y consultas para la pregunta 3. 
 
@@ -8,4 +10,4 @@ data, b, A, L, M = readFile3('nombre_archivo.txt')
 print(inputArista(A, L, M))
 ```
 
-Link video: [Video](https://example.com/)
+Link video: [Video](https://drive.google.com/file/d/1MjrMZGUWLWx4J4rMxjVAqHlyytPx8x69/view?usp=sharing)
